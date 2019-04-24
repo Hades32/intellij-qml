@@ -13,7 +13,7 @@ Support for 2018 release
     ]]>
     </change-notes>
 
-    <idea-version since-build="181.0" until-build="183.*" />
+    <idea-version since-build="181.0" until-build="191.*" />
 
     <depends>com.intellij.modules.lang</depends>
 
